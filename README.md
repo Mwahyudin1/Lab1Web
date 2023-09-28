@@ -7,4 +7,5 @@
 ## 1
 Buka VS Code 
 ![gambar-1][def-1]
+
 [def-1]: /image/ss1.png
