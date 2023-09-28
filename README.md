@@ -59,3 +59,14 @@ Halaman ke-2
 ![gambar-11][def-11]
 
 [def-11]: /image/ss11.png
+
+## Jawab Pertanyaan Berikut
+1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah _error_ ketika terjadi kesalahan punulisan tag?
+```
+pp
+```
+<!-- jawaban
+    1. pada saat saya menliskan tag p namun lupa memberikan penutup pada kode tag p maka terjadi error sehingga basa mesin tidak dapat mengenali tag yang ditulis namun teks akan tetap di tampilkan dalam halaman web.
+
+    2 
+ -->
