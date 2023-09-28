@@ -26,3 +26,6 @@ Selanjutnya membuat judul dan pargraf, dalam membuat judul menggunakan tag h1 - 
 [def-4]: /image/ss4.png
 
 Lalu juga bisa mengubah-uabh nilai atributnya pada bagian paragraf dengan menggunakan nilai atribut (align="right", align="left")
+![gambar-5][def-5]
+
+[def-5]: /image/ss5.png
