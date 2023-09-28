@@ -20,7 +20,7 @@ Nah selanjutnya, buka file yang sudah dibuat tadi pada web browser.
 [def-3]: /image/ss3.png
 Kenapa halamannya kosong karena didalam file __lab1_tag_dasar.html__ hanya ada tag title yang hanya menampilkan judul sebuah halaman.
 
-<span style="color:red">poooo</span>
+<font color="red">pooooo</font>
 Selanjutnya membuat judul dan pargraf, dalam membuat judul menggunakan tag h1 - h6 untuk membuat paragrafnya menggunakan tag p.
 ![gambar-4][def-4]
 
