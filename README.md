@@ -45,7 +45,17 @@ Atau bisa seperti ini.
 
 [def-8]: /image/ss8.png
 
-Nah selanjutnya menambahkan gambar pada halam web yang sudah di save sebelumnya dengan memanggil gambar menggunakan tag `<img src="logo_UPB.png" title="Logo Universitas Pelita Bangsa`
+Nah selanjutnya menambahkan gambar pada halam web yang sudah di save sebelumnya dengan memanggil gambar menggunakan tag `<img src="logo_UPB.png" title="Logo Universitas Pelita Bangsa">`.
 ![gambar-9][def-9]
 
 [def-9]: /image/ss9.png
+
+Selanjutnya membuat `Hyperlink` untuk menghubungkan halam satu dengan halaman lain, tambahkan hyperlink sebelum heading 1 seperti berikut dan buat dokumen HTML baru didalam folder Lab1Wb.
+![gambar-10][def-10]
+
+[def-10]: /image/ss10.png
+
+Halaman ke-2
+![gambar-11][def-11]
+
+[def-11]: /image/ss1.png
