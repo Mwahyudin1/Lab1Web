@@ -4,8 +4,7 @@
 ### TI.22.A1
 
 ## Langkah Praktikum 
-## Pertama
-Buka VS Code terlebih dahulu.
+Pertama buka VS Code terlebih dahulu.
 ![gambar-1][def-1]
 
 [def-1]: /image/ss1.png
@@ -19,4 +18,6 @@ Nah selanjutnya, buka file yang sudah dibuat tadi pada web browser.
 ![gambar-3][def-3]
 
 [def-3]: /image/ss3.png
-Kenapa halamannya kosong karena didalam file lab1_tag_dasar.html baru ada tag title yang hanya menampilkan judul sebuah halam. 
+Kenapa halamannya kosong karena didalam file lab1_tag_dasar.html baru ada tag title yang hanya menampilkan judul sebuah halaman. 
+
+Selanjutnya membuat judul dan pargraf, dalam membuat judul menggunakan tag h1 - h6 untuk membuat paragrafnya menggunakan tag p.
