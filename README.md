@@ -63,7 +63,7 @@ Halaman ke-2
 ## Jawab Pertanyaan Berikut
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah _error_ ketika terjadi kesalahan punulisan tag?
 ```
-pp
+Pada saat saya menuliskan kode tag `<p>` 
 ```
 <!-- jawaban
     1. pada saat saya menliskan tag p namun lupa memberikan penutup pada kode tag p maka terjadi error sehingga basa mesin tidak dapat mengenali tag yang ditulis namun teks akan tetap di tampilkan dalam halaman web.
