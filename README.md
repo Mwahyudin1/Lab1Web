@@ -34,3 +34,13 @@ Selanjutnya juga bisa `memformat teks` pada paragraf dengan tag `<b>`, `<strong>
 ![gambar-6][def-6]
 
 [def-6]: /image/ss6.png
+
+Selanjutnya akan menampilkan gambar pada halaman web, untuk menampilkan gambar/foto pastikan sudah memiliki gambar/foto yang ingin ditampilkan, kemudian buat folder baru yang berada didalam folder `Lab1Web` atau juga bisa simpan file gambar satu folder dengan file dokumen html.
+![gambar-7][def-7]
+
+[def-7]: /image/ss7.png
+
+Atau bisa seperti ini.
+![gambar-8][def-8]
+
+[def-8]: /image/ss8.png
