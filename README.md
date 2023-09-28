@@ -58,4 +58,4 @@ Selanjutnya membuat `Hyperlink` untuk menghubungkan halam satu dengan halaman la
 Halaman ke-2
 ![gambar-11][def-11]
 
-[def-11]: /image/ss1.png
+[def-11]: /image/ss11.png
