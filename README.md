@@ -48,4 +48,4 @@ Atau bisa seperti ini.
 Nah selanjutnya menambahkan gambar pada halam web yang sudah di save sebelumnya dengan memanggil gambar menggunakan tag `<img src="logo_UPB.png" title="Logo Universitas Pelita Bangsa`
 ![gambar-9][def-9]
 
-[def-9]: /image/Logo_UPB.png
+[def-9]: /image/ss9.png
