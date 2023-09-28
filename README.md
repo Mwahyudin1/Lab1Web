@@ -31,3 +31,6 @@ Lalu juga bisa mengubah-uabh nilai atributnya pada bagian paragraf dengan menggu
 [def-5]: /image/ss5.png
 
 Selanjutnya juga bisa `memformat teks` pada paragraf dengan tag `<b>`, `<strong>`, `<i>`, `<em>`, `<mark>`, `<small>`, `<del>`, `<ins>`, `<sub>` dan `<sup>`.
+![gambar-6][def-6]
+
+[def-6]: /image/ss6.png
